@@ -16,19 +16,19 @@
       </div>
       <div class="columns center navigation-bar">
         <div class="column">
-          <a href="#profile" v-smooth-scroll>Profile</a>
+          <a href="#" v-scroll-to="'#profile'">Profile</a>
         </div>
         <div class="column">
-          <a href="#education" v-smooth-scroll>Education</a>
+          <a href="#" v-scroll-to="'#education'">Education</a>
         </div>
         <div class="column">
-          <a href="#publication" v-smooth-scroll>Publication</a>
+          <a href="#" v-scroll-to="'#publication'">Publication</a>
         </div>
         <div class="column">
-          <a href="#work-exp" v-smooth-scroll>Work exp.</a>
+          <a href="#-exp" v-scroll-to="'#work-exp'">Work exp.</a>
         </div>
         <div class="column">
-          <a  href="#skills" v-smooth-scroll>Skills</a>
+          <a  href="#" v-scroll-to="'#skills'">Skills</a>
         </div>
       </div>
     </div>
