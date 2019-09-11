@@ -51,7 +51,7 @@
     color: #2c3e50;
   }
   a:hover {
-    color: #cc0000;
+    color: #1e90ff;
   }
 }
 .logo {
