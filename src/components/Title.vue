@@ -1,7 +1,7 @@
 <template>
   <div>
     <div  class="page-title section">
-      <img src="@/assets/icon_svg.svg" height="100px" width="100px">
+      <img src="@/assets/icon.png" height="100px" width="100px">
       <transition appear>
         <p v-cloak>OKURA Maiki's homepage</p>
       </transition>

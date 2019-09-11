@@ -6,7 +6,7 @@
       </div>
       <hr>
       <div class="element">
-        <div class="section-subtitle">[ Generic ]</div>
+        <div class="section-subtitle">[ Basic ]</div>
         <div class="content">
           日本語, 英語 (toeic 830), 水泳, 普通自動車免許 
         </div>
