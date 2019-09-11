@@ -66,7 +66,7 @@
   margin-top: 0.75rem !important;
   margin-bottom: 0.5rem !important;
   a:visited, a:link {
-    color: #cc0000;
+    color: #2c3e50;
   }
   a:hover {
     color: #ffa500;

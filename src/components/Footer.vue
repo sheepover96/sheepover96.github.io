@@ -16,7 +16,7 @@
   </footer>
 </template>
 
-<style lang="scss">
+<style lang="scss" scoped>
 .logo-bar {
   a:visited, a:link {
     color: #2c3e50;
