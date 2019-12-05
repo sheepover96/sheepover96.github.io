@@ -8,7 +8,19 @@
       <div class="element">
         <div class="section-subtitle">[ Basic ]</div>
         <div class="content">
-          日本語, 英語 (toeic 830), 水泳, 普通自動車免許 
+          日本語, 英語 (toeic 830), 水泳, 普通自動車免許
+        </div>
+      </div>
+      <div class="element">
+        <div class="section-subtitle">[ Programming ]</div>
+        <div class="content">
+          python, java, javascript(node.js, vue.js), etc...
+        </div>
+      </div>
+      <div class="element">
+        <div class="section-subtitle">[ Framework, Middleware ]</div>
+        <div class="content">
+          Django, Vue.js, docker, apache beam(cloud dataflow), Pytorch, (Android Java), etc...
         </div>
       </div>
       <!--

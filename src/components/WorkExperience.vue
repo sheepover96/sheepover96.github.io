@@ -6,7 +6,7 @@
       </div>
       <hr>
       <div class="element">
-        <div class="section-subtitle">[ アルバイト ]</div>
+        <div class="section-subtitle">[ アルバイト・インターン ]</div>
         <div class="table-container">
           <table align="center" class="table">
             <tr>
@@ -18,6 +18,11 @@
               <td>2018 Mar 〜 Dec </td>
               <td>フラー株式会社</td>
               <td>SE (Data infra, Frontend)</td>
+            </tr>
+            <tr>
+              <td>2019 Oct 〜 Nov </td>
+              <td>株式会社プレイド</td>
+              <td>SE (Backend, Frontend)</td>
             </tr>
           </table>
         </div>
