@@ -14,13 +14,30 @@
       <div class="element">
         <div class="section-subtitle">[ Programming ]</div>
         <div class="content">
-          python, java, javascript(node.js, vue.js), etc...
-        </div>
-      </div>
-      <div class="element">
-        <div class="section-subtitle">[ Framework, Middleware ]</div>
-        <div class="content">
-          Django, Vue.js, docker, apache beam(cloud dataflow), Pytorch, (Android Java), etc...
+          <div class="table-container table-margin" style>
+            <table class="table">
+              <tr>
+                <th>Language</th>
+                <td>python, golang, javascript, java, etc</td>
+              </tr>
+              <tr>
+                <th>Application</th>
+                <td>Django, React, Vue.js, (Android), etc</td>
+              </tr>
+              <tr>
+                <th>Infra</th>
+                <td>GCP, terraform, AWS</td>
+              </tr>
+              <tr>
+                <th>Middleware</th>
+                <td>docker, k8s(helm, Argo), mysql, nginx, etc </td>
+              </tr>
+              <tr>
+                <th>ML</th>
+                <td>画像分類, pytorch, keras, scikit-learn, etc</td>
+              </tr>
+            </table>
+          </div>
         </div>
       </div>
       <!--

@@ -2,7 +2,7 @@
   <footer class="footer has-background-white ">
     <div class="content has-text-centered">
       <p>
-        @2019 Maiki OKURA
+        @2019-2020 Maiki OKURA
       </p>
       <div class="logo-bar">
       links:

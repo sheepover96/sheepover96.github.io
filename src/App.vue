@@ -62,7 +62,7 @@ export default {
   margin-bottom: 4px;
 }
 .element {
-  margin-bottom: 20px;
+  margin-bottom: 30px;
   .section-subtitle {
     font-size: 20px;
     position: relative;
@@ -70,11 +70,14 @@ export default {
     margin-left: 20px;
     text-align: left;
   }
+  .table-container {
+    margin: 20px;
+  }
   .item {
   }
 }
 .nowrap-table {
   @extend .table;
   white-space: nowrap;
-} 
+}
 </style>

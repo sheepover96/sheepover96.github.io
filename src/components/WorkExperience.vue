@@ -24,12 +24,17 @@
               <td>株式会社プレイド</td>
               <td>SE (Backend, Frontend)</td>
             </tr>
+            <tr>
+              <td>2020 Jan 〜  </td>
+              <td>株式会社スリーシェイク </td>
+              <td>SE (Infra, Backend, Frontend)</td>
+            </tr>
           </table>
         </div>
       </div>
       <div class="element">
         <div class="section-subtitle">[ TA ]</div>
-        <div class="table-container">
+        <div class="table-container table-margin">
           <table align="center" class="table">
             <tr>
               <th>Period</th>
