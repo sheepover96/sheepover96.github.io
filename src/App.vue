@@ -39,6 +39,7 @@ export default {
 
 <style lang="scss">
 @import "../node_modules/bulma/bulma.sass";
+@import "./styles/style.sass";
 .app {
   font-family: 'Futura', 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -48,6 +49,9 @@ export default {
   margin-top: 60px;
   margin-left: 10px;
   margin-right: 10px;
+}
+.normal-width {
+  max-width: 600px;
 }
 .center {
   text-align: center;

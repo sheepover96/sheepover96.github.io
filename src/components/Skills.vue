@@ -1,6 +1,6 @@
 <template>
   <section id="skills" class="section">
-    <div class="container">
+    <div class="container normal-width">
       <div class="section-title">
         Skills
       </div>

@@ -6,7 +6,7 @@
         <p v-cloak>OKURA Maiki's homepage</p>
       </transition>
     </div>
-    <div class="container">
+    <div class="container normal-width">
       <div class="logo-bar">
         <a target="_blank" href="https://github.com/sheepover96/" class="logo"><i class="fab fa-github fa-lg"></i></a>
         <a target="_blank" href="https://www.linkedin.com/in/%E7%9C%9F%E4%B8%80%E5%B8%8C-%E5%A4%A7%E5%80%89-a17397149/?locale=en_US" class="logo"><i class="fab fa-linkedin-in fa-lg"></i></a>
