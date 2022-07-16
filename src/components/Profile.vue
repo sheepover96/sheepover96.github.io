@@ -10,7 +10,7 @@
       </div>
       <div class="element">
         <div class="section-subtitle">[ 連絡先 ]</div>
-        <div class="item">sheep.over@gmail.com</div>
+        <div class="item">sheep.over[at]gmail.com</div>
       </div>
       <div class="element">
         <div class="section-subtitle">[ 趣味 ]</div>
